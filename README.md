@@ -1,2 +1,2 @@
-# Published product
-['see final project'](https://alexyoodev.github.io/monster-rolodex/)
+# Published Product
+[Check Out Final Project](https://alexyoodev.github.io/monster-rolodex/)
